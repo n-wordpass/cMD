@@ -19,15 +19,19 @@ fONTE: MS GOTIC
 tEXT: iRED: 255
       iGRN: 0
       iBLU: 255
+      
 bEQUIGAUNDE: iRED: 255
              iGRN: 0
              iBLU: 0
+             
 sELAIQTEDE TEXT: iRED: 128
                  iGRN: 0
                  iBLU: 0
+                 
 sELAIQTEDE BEQUIGAUND TEXT: iRED: 128
                             iGRN: 0
                             iBLU: 128
+                            
 oPACITE: 30%
 
 
